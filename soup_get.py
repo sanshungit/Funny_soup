@@ -13,7 +13,7 @@ class Downloadhandler(object):
         return data_model['newslist'][0]['content']
     
 def main():
-    url='http://api.tianapi.com/txapi/dujitang/index?key=89ab0002d0c5031afb9fb88d88dd33ef'
+    url='http://api.tianapi.com/txapi/dujitang/index?key=<申请的key>'
     f=open('./毒鸡汤.txt','a+')
 
     print('开始抓取....')
