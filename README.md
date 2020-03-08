@@ -1,0 +1,2 @@
+# Funny_soup
+通过天行数据网站的API采集毒鸡汤Python案例
